@@ -3,19 +3,24 @@
     
     
 }
+
 .nav-link{
     color: rgb(255, 255, 255);
    
 }
+.navbar-nav .nav-link:hover {
+    color: #ff91c2 !important;
+    
+}
 .mav-link:hover{
-    color: #ff7bb6;
+    color: #ff91c2;
 }
 .navbar-brand{
     color: antiquewhite;
     font-size: 35px;
 }
 .navbar-brand:hover{
-    color: #fc358e;
+    color:#ff91c2;
 }
 
 .navbar-nav {
@@ -54,7 +59,7 @@ p{
 
 .about{
     background-color: #6b6b6b;
-  
+  color: azure;
 }
 
 .gridStyle {
@@ -72,6 +77,9 @@ p{
 }
 .port{
     background-color: #6b6b6b;
+}
+.portfolio{
+    color: azure;
 }
 .footer{
     background-color: #262622;
